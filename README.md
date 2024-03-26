@@ -1,4 +1,4 @@
-# Gerador Automático de Orçamentos com Python no Jupyter Notebook
+# Gerador Automático de Orçamentos com Python
 
 ## Objetivo
 
