@@ -35,10 +35,11 @@ Na empresa "sua empresa", a emissão de orçamentos é uma atividade crucial. No
       pip install -r requirements.txt
       ```
 
-3. **Abra o Notebook**: Abra o arquivo `main.ipynb` no Jupyter Notebook.
+3. **Abra o Notebook**:
+       - Abra o arquivo `main.ipynb` no Jupyter Notebook.
 
-4. **Execute as Células**: Execute as células do notebook para gerar os orçamentos de acordo com as necessidades da sua empresa.
+5. **Execute as Células**: Execute as células do notebook para gerar os orçamentos de acordo com as necessidades da sua empresa.
 
-5. **Personalize os Detalhes**: No notebook, você pode personalizar os detalhes do orçamento, como nome do cliente, itens e preços.
+6. **Personalize os Detalhes**: No notebook, você pode personalizar os detalhes do orçamento, como nome do cliente, itens e preços.
 
-6. **Exporte para PDF**: Após ajustar os detalhes do orçamento, execute a célula responsável pela exportação para PDF.
+7. **Exporte para PDF**: Após ajustar os detalhes do orçamento, execute a célula responsável pela exportação para PDF.
