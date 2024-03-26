@@ -31,9 +31,9 @@ Na empresa "sua empresa", a emissão de orçamentos é uma atividade crucial. No
 
 2. **Instale as Dependências**: Certifique-se de ter todas as dependências instaladas. Você pode fazer isso executando o seguinte comando no terminal:
 
-  ```bash
-  pip install -r requirements.txt
-  ```
+      ```bash
+      pip install -r requirements.txt
+      ```
 
 3. **Abra o Notebook**: Abra o arquivo `main.ipynb` no Jupyter Notebook.
 
