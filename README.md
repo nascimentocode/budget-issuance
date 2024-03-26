@@ -18,16 +18,16 @@ Na empresa "sua empresa", a emissão de orçamentos é uma atividade crucial. No
 
 1. **Clone o Repositório**: Clone este repositório em sua máquina local.
 
-  Utilizando HTTPS:
-   ```bash
-   git clone https://github.com/nascimentocode/budget-issuance-automation.git
-   ```
-
-   ou utilizando o SSH:
-
-   ```bash
-   git clone git@github.com:nascimentocode/budget-issuance-automation.git
-   ```
+    Utilizando HTTPS:
+     ```bash
+     git clone https://github.com/nascimentocode/budget-issuance-automation.git
+     ```
+  
+     ou utilizando o SSH:
+  
+     ```bash
+     git clone git@github.com:nascimentocode/budget-issuance-automation.git
+     ```
 
 2. **Instale as Dependências**: Certifique-se de ter todas as dependências instaladas. Você pode fazer isso executando o seguinte comando no terminal:
 
