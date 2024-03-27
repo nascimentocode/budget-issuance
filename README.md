@@ -16,7 +16,7 @@ Na empresa "sua empresa", a emissão de orçamentos é uma atividade crucial. No
 - Personalização dos detalhes do orçamento, como nome do cliente, itens e preços.
 - Flexibilidade para adicionar novos recursos e personalizações.
 
-## Como Usar
+## Como Utilizar
 
 1. **Clone o Repositório**: Clone este repositório em sua máquina local.
 
