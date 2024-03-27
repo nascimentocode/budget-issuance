@@ -1,5 +1,7 @@
 # Gerador Automático de Orçamentos com Python
 
+Este projeto foi desenvolvido durante a imersão oferecida pela empresa Empowerdata.
+
 ## Objetivo
 
 Este repositório contém um projeto desenvolvido em Jupyter Notebook para gerar automaticamente PDFs utilizando Python. O objetivo principal é facilitar a emissão de orçamentos para a empresa "sua empresa".
