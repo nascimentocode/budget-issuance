@@ -37,7 +37,7 @@ Na empresa "sua empresa", a emissão de orçamentos é uma atividade crucial. No
       pip install -r requirements.txt
       ```
 
-3. **Abra o Notebook**:
+3. **Abra o Jupyter Notebook**:
     * Abra o arquivo `main.ipynb` no Jupyter Notebook.
 
 4. **Execute as Células**:
